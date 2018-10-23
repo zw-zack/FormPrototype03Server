@@ -1,0 +1,7 @@
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.exe.config
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.exe
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\bin\Debug\Server_Tutorial.pdb
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.csprojAssemblyReference.cache
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.exe
+C:\Users\zwchua\Documents\Visual Studio 2017\Projects\Server_Tutorial\Server_Tutorial\obj\Debug\Server_Tutorial.pdb
